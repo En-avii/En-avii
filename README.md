@@ -23,6 +23,6 @@ I’m keen on projects in AI, IoT, and open-source development.
 
 ### 📫 Connect with Me  
 - **Email:** [27abhiyadav@gmail.com](mailto:27abhiyadav@gmail.com)  
-- **LinkedIn:** [enaviii04](https://www.linkedin.com/in/enaviii04)  
+- **LinkedIn:** [abhixh3k](https://www.linkedin.com/in/abhixh3k)  
 - **GitHub:** [github.com/En-avii](https://github.com/En-avii)  
 
